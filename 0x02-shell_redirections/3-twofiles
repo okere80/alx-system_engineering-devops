@@ -1,4 +1,2 @@
-!/bin/bash
-2-hellofil
-#!/bin/bash#!/bin/bash
-#cat / etc / passwd  /etc/hostis
+#!/bin/bash
+#cat/etc/passwd  /etc/hosts
